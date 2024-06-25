@@ -1,8 +1,8 @@
+<br>
+<img src="https://github.com/sirilalithaadapa/COVID19-prediction/blob/main/COVID%20-%2019%20PREDICTION.png">
+
 # COVID19-prediction
 ML Odinschool Project for diagnosis of COVID-19
-# COVID-19-Diagnosis-Prediction
-(Machine Learning Project for diagnosis of COVID -19)
-
 
 Introduction:
 ---
